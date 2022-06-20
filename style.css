@@ -1,0 +1,27 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+  
+div {
+    font-family: myFirstFont;
+}
+
+
+.jumbotron{
+    padding-top: 6rem ;
+    background-color: #212529;
+}
+#projects{
+    background-color: #212529;
+
+}
+#footer{
+    background-color: #212529;
+}
+
+section{
+    padding-top: 5rem ;
+}
+
+
